@@ -12,7 +12,7 @@
 //주의할점 => 자바스크립트 구문 사용안됨, 표현식도 사용안됨
 	String str="sooyang";
 	System.out.println("str=>"+str);
-	
+	//System.out.println("str=>"+str);
 	out.println("<h1>"+str+"</h1>");//웹에 출력
 	//document.write("str=>"+str)
 %>
